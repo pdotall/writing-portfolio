@@ -30,5 +30,18 @@ A new line of Research focused on in-depth articles about the Creator Economy (i
 
 You can find all the articles [here](https://www.linkedin.com/newsletters/creator-economy-research-7057715136496562176/)
 
+# Manwë Research
+
+Unfolding Layers is a weekly newsletter for University students of Brazil. Every edition will be pushed to their e-mails. This is a partnership with 2 private Universities, the idea is to expand it to every University in the country.
+
+![image](https://github.com/pdotall/writing-portfolio/assets/84878611/76c85087-38db-4226-952f-4426c526b4b0)
+* [Unfolding Layers: Weekly blockchain newsletter by Manwë](https://www.linkedin.com/pulse/unfolding-layers-weekly-blockchain-newsletter-manw%2525C3%2525AB-manweresearch%3FtrackingId=aT1KkXQD8c7ABCpZdpbQRg%253D%253D/?trackingId=aT1KkXQD8c7ABCpZdpbQRg%3D%3D)
+
+![image](https://github.com/pdotall/writing-portfolio/assets/84878611/f92b62bb-9753-465b-9973-2be0e3d68dea)
+* [Unfolding Layers: Weekly blockchain newsletter by Manwë #2](https://www.linkedin.com/pulse/unfolding-layers-weekly-blockchain-newsletter-manw%2525C3%2525AB-2-manweresearch%3FtrackingId=1hL4xdhBlHzS3G4M8VIoSA%253D%253D/?trackingId=1hL4xdhBlHzS3G4M8VIoSA%3D%3D)
+
+![image](https://github.com/pdotall/writing-portfolio/assets/84878611/ea00e960-492d-47d0-b5ff-04f7ac08b707)
+* [Uniswap V4 Hooks - The Future of Finance](https://www.linkedin.com/pulse/uniswap-v4-hooks-future-finance-manweresearch%3FtrackingId=VECToKLWOY065Y7IJFKMoQ%253D%253D/?trackingId=VECToKLWOY065Y7IJFKMoQ%3D%3D)
 
 
+You can find all the articles [here](https://www.linkedin.com/company/manweresearch/posts/?feedView=articles&viewAsMember=true)
