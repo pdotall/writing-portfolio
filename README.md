@@ -45,3 +45,10 @@ Unfolding Layers is a weekly newsletter for University students of Brazil. Every
 
 
 You can find all the articles [here](https://www.linkedin.com/company/manweresearch/posts/?feedView=articles&viewAsMember=true)
+
+# Thesis
+
+[This Thesis](https://repositorio.ufsc.br/handle/123456789/247716) investigates the price dynamics of Ether across centralized and decentralized exchanges to contribute to the knowledge systematization of cryptocurrencies and Decentralized Finance (DeFi). This study follows Alexander et al (2020) using autoregressive, including VECM, and cointegration models to investigate the price discovery dinamics between markets.
+
+![image](https://github.com/pdotall/writing-portfolio/assets/84878611/260d07c0-fe0c-45d6-8307-3514b4b748fb)
+
