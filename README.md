@@ -14,4 +14,10 @@ The Cobogo.social [documentation](https://docs.cobogo.social/) introduces the pr
 
 ![image](https://github.com/pdotall/writing-portfolio/assets/84878611/0eaf587f-61d3-4678-82fc-ce1ff5673df4)
 
-A new line of Research where we focus on the Creator Economy:
+A new line of Research focused on in-depth articles about the Creator Economy (in Portuguese and English):
+
+![image](https://github.com/pdotall/writing-portfolio/assets/84878611/f67173c7-3450-485a-b018-c3eaadda0008)
+* [Where in the world are the Creator Economy investors?](https://www.linkedin.com/pulse/where-world-creator-economy-investors-cobogopt?lipi=urn%3Ali%3Apage%3Ad_flagship3_series_entity%3Brt26FFPxTzS5zUZJ8CadZw%3D%3D)
+![image](https://github.com/pdotall/writing-portfolio/assets/84878611/c68a11c4-e309-400f-91be-844ed9b4ee26)
+* [Creator Economy VC Database](https://www.linkedin.com/pulse/creator-economy-vc-database-cobogopt?lipi=urn%3Ali%3Apage%3Ad_flagship3_series_entity%3Bp0izITOkSHmOhT%2F0Yydv8A%3D%3D)
+
