@@ -16,7 +16,7 @@ The Cobogo.social [documentation](https://docs.cobogo.social/) introduces the pr
 
 A new line of Research focused on in-depth articles about the Creator Economy (in Portuguese and English):
 
-![image](![image](https://github.com/pdotall/writing-portfolio/assets/84878611/341341fd-c095-4892-bf5e-16e413eca20d))
+![image](![image](https://github.com/pdotall/writing-portfolio/assets/84878611/341341fd-c095-4892-bf5e-16e413eca20d)
 * [Cobogo hacks TikTok’s boost algorithm for you](https://www.linkedin.com/pulse/cobogo-hacks-tiktoks-boost-algorithm-you-cobogopt)
 
 ![image](https://github.com/pdotall/writing-portfolio/assets/84878611/39522073-4900-48a6-8a8b-ba2316e4116d)
