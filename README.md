@@ -39,7 +39,6 @@ You can find all the articles [here](https://www.linkedin.com/company/manweresea
 Here you can find some of my dashboards on Dune Analytics.
 
 ![image](https://github.com/pdotall/writing-portfolio/assets/84878611/ffbba6ab-a98c-46d2-865a-7e15c0473322)
-
 * [Florence Finance Dashboard](https://dune.com/p_dot/florence-finance)
 
 # Thesis
