@@ -16,8 +16,8 @@ The Cobogo.social [documentation](https://docs.cobogo.social/) introduces the pr
 
 A new line of Research focused on in-depth articles about the Creator Economy (in Portuguese and English):
 
-![image](https://github.com/pdotall/writing-portfolio/assets/84878611/448d1f08-3d0a-48df-9199-8a9e5cea1389)
-* [Where in the world are the Creator Economy investors?](https://www.linkedin.com/pulse/where-world-creator-economy-investors-cobogopt?lipi=urn%3Ali%3Apage%3Ad_flagship3_series_entity%3Brt26FFPxTzS5zUZJ8CadZw%3D%3D)
+![image](![image](https://github.com/pdotall/writing-portfolio/assets/84878611/341341fd-c095-4892-bf5e-16e413eca20d))
+* [Cobogo hacks TikTok’s boost algorithm for you](https://www.linkedin.com/pulse/cobogo-hacks-tiktoks-boost-algorithm-you-cobogopt)
 
 ![image](https://github.com/pdotall/writing-portfolio/assets/84878611/39522073-4900-48a6-8a8b-ba2316e4116d)
 * [Creator Economy VC Database](https://www.linkedin.com/pulse/creator-economy-vc-database-cobogopt-1f?lipi=urn%3Ali%3Apage%3Ad_flagship3_series_entity%3BY95lebv3QN%2BzQyOSK9CfOg%3D%3D)
