@@ -13,9 +13,6 @@ A new line of Research focused on in-depth articles about the Creator Economy (i
 ![image](https://github.com/pdotall/writing-portfolio/assets/84878611/39522073-4900-48a6-8a8b-ba2316e4116d)
 * [Creator Economy VC Database](https://www.linkedin.com/pulse/creator-economy-vc-database-cobogopt-1f?lipi=urn%3Ali%3Apage%3Ad_flagship3_series_entity%3BY95lebv3QN%2BzQyOSK9CfOg%3D%3D)
 
-![image](https://github.com/pdotall/writing-portfolio/assets/84878611/c606c28a-517b-44dc-b7e7-8f4e5b583da1)
-* [Brazil, the Creator Economy El Dorado](https://www.linkedin.com/pulse/brazil-creator-economy-el-dorado-cobogopt?lipi=urn%3Ali%3Apage%3Ad_flagship3_series_entity%3BY95lebv3QN%2BzQyOSK9CfOg%3D%3D)
-
 ![image](https://github.com/pdotall/writing-portfolio/assets/84878611/bfac9e0f-c13d-4994-a897-baec374b78fc)
 * [Creators are becoming Brands](https://www.linkedin.com/newsletters/creator-economy-research-7057715136496562176/#:~:text=Creators%20are%20becoming%20Brands)
 
@@ -36,6 +33,14 @@ Unfolding Layers is a weekly newsletter for University students of Brazil. Every
 
 
 You can find all the articles [here](https://www.linkedin.com/company/manweresearch/posts/?feedView=articles&viewAsMember=true)
+
+# Dune Analytics
+
+Here you can find some of my dashboards on Dune Analytics.
+
+![image](https://github.com/pdotall/writing-portfolio/assets/84878611/ffbba6ab-a98c-46d2-865a-7e15c0473322)
+
+* [Florence Finance Dashboard](https://dune.com/p_dot/florence-finance)
 
 # Thesis
 
