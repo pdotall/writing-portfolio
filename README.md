@@ -22,11 +22,11 @@ You can find all the articles [here](https://www.linkedin.com/newsletters/creato
 
 Unfolding Layers is a weekly newsletter for University students of Brazil. Every edition will be pushed to their e-mails. This is a partnership with 2 private Universities, the idea is to expand it to every University in the country.
 
+![image](https://github.com/pdotall/writing-portfolio/assets/84878611/9b101237-9e9d-42bd-aeb7-6822083cae0e)
+* [Turning the Wrench on Gearbox Protocol: an Analysis of the DAO’s Governance Dynamics](https://www.linkedin.com/pulse/turning-wrench-gearbox-protocol-analysis-daos-governance%3FtrackingId=oD6kqnd1SnGaOu1DXYLlaQ%253D%253D/?trackingId=Ypj7u7HXR%2FWYGV3cRvlOhw%3D%3D)
+
 ![image](https://github.com/pdotall/writing-portfolio/assets/84878611/ecad970a-4025-49fa-af05-e9a7e0c45f01)
 * [Unfolding Layers: Weekly blockchain newsletter by Manwë](https://www.linkedin.com/pulse/unfolding-layers-weekly-blockchain-newsletter-manw%2525C3%2525AB-manweresearch%3FtrackingId=aT1KkXQD8c7ABCpZdpbQRg%253D%253D/?trackingId=aT1KkXQD8c7ABCpZdpbQRg%3D%3D)
-
-![image](https://github.com/pdotall/writing-portfolio/assets/84878611/33ff3aba-f456-4d50-a553-31c04539e83c)
-* [Unfolding Layers: Weekly blockchain newsletter by Manwë #2](https://www.linkedin.com/pulse/unfolding-layers-weekly-blockchain-newsletter-manw%2525C3%2525AB-2-manweresearch%3FtrackingId=1hL4xdhBlHzS3G4M8VIoSA%253D%253D/?trackingId=1hL4xdhBlHzS3G4M8VIoSA%3D%3D)
 
 ![image](https://github.com/pdotall/writing-portfolio/assets/84878611/e3ca8719-c208-4b83-ba21-dcba1fb8e1aa)
 * [Uniswap V4 Hooks - The Future of Finance](https://www.linkedin.com/pulse/uniswap-v4-hooks-future-finance-manweresearch%3FtrackingId=VECToKLWOY065Y7IJFKMoQ%253D%253D/?trackingId=VECToKLWOY065Y7IJFKMoQ%3D%3D)
