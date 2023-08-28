@@ -20,7 +20,7 @@ You can find all the articles [here](https://www.linkedin.com/newsletters/creato
 
 # Manwë Research
 
-Unfolding Layers is a weekly newsletter for University students of Brazil. Every edition will be pushed to their e-mails. This is a partnership with 2 private Universities, the idea is to expand it to every University in the country.
+Unfolding Layers is a weekly newsletter for University students of Brazil. Every edition will be pushed to their e-mails. This is a partnership with 2 private Universities, the idea is to expand it to every University in the country. 
 
 ![image](https://github.com/pdotall/writing-portfolio/assets/84878611/9b101237-9e9d-42bd-aeb7-6822083cae0e)
 * [Turning the Wrench on Gearbox Protocol: an Analysis of the DAO’s Governance Dynamics](https://www.linkedin.com/pulse/turning-wrench-gearbox-protocol-analysis-daos-governance%3FtrackingId=oD6kqnd1SnGaOu1DXYLlaQ%253D%253D/?trackingId=Ypj7u7HXR%2FWYGV3cRvlOhw%3D%3D)
